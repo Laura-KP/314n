@@ -1,5 +1,7 @@
-- 👋 Hi, I'm Laura, but I'm sure you knew me as Pin.
+## Hi, I'm Laura.
+-  👋 I'm known as Pin on the internet. 
 -  :coffee: Actually I'm developing a bot with discod.py. 
+- :computer: I'm learning python, javascript and C.
 
 <!---
 314n/314n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
