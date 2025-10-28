@@ -25,9 +25,9 @@
 
 ## 🪐 Projetos em destaque
 
-| Projeto | Descrição | Tecnologias |
-|----------|------------|--------------|
-| [🔭 Detectação de flares estelares com python e TESS ](https://github.com/seu-usuario/analise-curvas-tess) | Análise de variações luminosas e detecção de exoplanetas usando Lightkurve e PyWavelets. | Python, Lightkurve, Astropy |
+| Projeto | Descrição | 
+|----------|------------|
+| [🌟 Identificando Flares Estelares](https://github.com/Laura-KP/identificando_flares_estelares) | Análise de curvas de luz do TESS para detectar flares estelares usando Lightkurve e técnicas de ciência de dados. |
 
 
 
