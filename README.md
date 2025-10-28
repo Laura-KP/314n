@@ -6,14 +6,6 @@
 
 ---
 
-### 🔭 Áreas de interesse
-- Análise de curvas de luz (TESS, Kepler)  
-- Processamento de sinais astronômicos (CWT, FFT, filtragem)  
-- Modelagem de fenômenos estelares e exoplanetários  
-- Aplicação de machine learning em dados astronômicos  
-
----
-
 ### 🧠 Ferramentas e linguagens
 - **Python**, **Jupyter Notebook**, **NumPy**, **Pandas**  
 - **Lightkurve**, **Astropy**, **Matplotlib**, **PyWavelets**  
@@ -35,7 +27,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |----------|------------|--------------|
-| [🔭 Análise de curvas de luz TESS](https://github.com/seu-usuario/analise-curvas-tess) | Análise de variações luminosas e detecção de exoplanetas usando Lightkurve e PyWavelets. | Python, Lightkurve, Astropy |
+| [🔭 Detectação de flares estelares com python e TESS ](https://github.com/seu-usuario/analise-curvas-tess) | Análise de variações luminosas e detecção de exoplanetas usando Lightkurve e PyWavelets. | Python, Lightkurve, Astropy |
 
 
 
