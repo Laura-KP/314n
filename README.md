@@ -13,16 +13,6 @@
 
 ---
 
-  ### 📊 Competências em Ciência de Dados
-
-- Limpeza, normalização e tratamento de dados astronômicos
-- Análise estatística e detecção de outliers em séries temporais
-- Visualização de padrões com gráficos interativos e mapas de calor
-- Construção de modelos de classificação e regressão supervisionada
-- Extração de características espectrais e temporais em sinais de luz
-
----
-
 ## 🪐 Projetos em destaque
 
 | Projeto | Descrição | 
