@@ -2,7 +2,7 @@
 
 👋 Olá! Sou **Laura**, estou no 5º semestre de **Engenharia de Computação** no Instituto Federal de Educação, Ciência e Tecnologia do Ceará e estudo **ciência de dados com dados astronômicos** de forma indepentende. Trabalho principalmente com **curvas de luz** de missões espaciais como o **TESS**, investigando variações de brilho estelar, detecção de exoplanetas e padrões ocultos em sinais astronômicos.  
 
-✨ Utilizo princípios de ciência de dados, como limpeza e tratamento de dados, análise exploratória, modelagem matemática, aprendizado de máquina e visualização científica — para transformar grandes volumes de observações astronômicas em conhecimento físico e descobertas significativas.
+✨ **Como assim ciência de dados em dados astronômicos?** Utilizo princípios de ciência de dados, como limpeza e tratamento de dados, análise exploratória, modelagem matemática, aprendizado de máquina e visualização científica para transformar grandes volumes de observações astronômicas em conhecimento físico e descobertas significativas.
 
 ---
 
