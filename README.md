@@ -13,7 +13,7 @@
 
 ---
 
-## 🪐 Projetos em destaque
+## 🪐 Portifólio em DS
 
 | Projeto | Descrição | 
 |----------|------------|
