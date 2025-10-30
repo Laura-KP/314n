@@ -6,14 +6,14 @@ Olá! Sou **Laura**, estou no 5º semestre de **Engenharia de Computação** no 
 
 ---
 
-###Ferramentas e linguagens
+### Ferramentas e linguagens
 - **Python**, **Jupyter Notebook**, **NumPy**, **Pandas**  
 - **Lightkurve**, **Astropy**, **Matplotlib**, **PyWavelets**  
 - **Git**, **MySQL** (para armazenamento de dados astronômicos)
 
 ---
 
-##Portifólio em DS
+## Portifólio em DS
 
 | Projeto | Descrição | 
 |----------|------------|
